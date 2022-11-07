@@ -1,0 +1,49 @@
+fun main() {
+   val principal: Float = 100f;
+   val rate: Float = 2.3f;
+   val time: Float = 3.6f;
+   val interest = principal*rate*time;
+   println("$interest")
+   
+}
+
+------------------------------
+
+fun main() {
+   var l = listOf (9,8,2,3,1,5,6,4,7,10)
+   println("${l.sorted()}")
+   
+}
+
+----------------------------
+fun main() {
+   var l = mutableListOf (9,8,2,3,1,5,6,4,7,10)
+   l.add(11)
+   println("${l.sorted()}")
+   
+}
+------------------------------
+Create Column
+
+Column(modifier = Modifier
+            .fillMaxSize()
+            .padding(vertical = 100.dp)) {
+            Surface(
+                modifier = Modifier
+                    .width(50.dp)
+                    .height(50.dp),color=MaterialTheme.colors.primary
+            ){
+
+            }
+            Surface(
+                modifier = Modifierhars
+                    .width(50.dp)
+                    .height(50.dp),color=Color.Black
+            ){
+
+            }
+            Surface(
+
+-----------------------------------------------------------
+Create Row
+

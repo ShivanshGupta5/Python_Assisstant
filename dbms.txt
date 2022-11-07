@@ -1,0 +1,17 @@
+candidate keys
+having vs where
+•Where  name like ‘R%’  vs  where name=’R%’
+•Where name not like ‘R%’ vs name not=’R%’
+
+
+Unique mein only one null is allowed
+
+
+fetchone --> tuple
+fetchall ---> list
+
+
+dialup network
+
+IP ----> route decide karta hai
+TCP ---> divides the data into small small packets

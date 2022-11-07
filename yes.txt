@@ -1,0 +1,15 @@
+ADB Idea
+Clear Cache
+CodeGlance Pro
+FCM push sender
+Gradle Killer
+JSON To Kotlin Class
+Kotlin Fill Class
+Material Design Icon Generator
+Material Themes UI (optional, if you not satisfied with current android studio theme)
+Monikai Pro Theme (Another Theme plugin)
+Rainbow Brackets
+String Manipulation
+Tabnine AI Code Completion
+Vector Drawable Thumbnails
+List of extensions

@@ -1,0 +1,10 @@
+Greetings,
+I am python assistant your personal virtual assisstant created by Piyush and Shivansh. 
+I have been programmed in python.
+I take voice commands and can perform multiple functions with just your voice command to make your working experience on your device more pleasant and relaxed.
+
+I can play any song or open any video on youtube,tell the date and time, perform web searches,tell some jokes to entertain, open an interesting snake game, open the covid report, translate a phrase from any language to any language, give the history of the command given to me and introduce myself.
+
+I hope that we will be a good team and will make your experience with your device better.
+
+Thankyou.
